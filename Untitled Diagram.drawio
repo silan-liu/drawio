@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T01:56:04.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="dHzY67oH0cdEi3WP2MU4" version="14.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-19T01:57:14.253Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="L4JkYBosO07VYpXvHvAY" version="14.1.1" type="github">
   <diagram id="0iAqYNN2iNlclvPPU9rL" name="Page-1">
     <mxGraphModel dx="786" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHdyuVchqa2uw6LGRK5T-19" value="{sel, imp}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="130" y="40" width="70" height="40" as="geometry" />
+          <mxGeometry x="165" y="40" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CHdyuVchqa2uw6LGRK5T-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CHdyuVchqa2uw6LGRK5T-2" target="CHdyuVchqa2uw6LGRK5T-19">
           <mxGeometry relative="1" as="geometry" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="CHdyuVchqa2uw6LGRK5T-21" value="定位的缓存表项" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CHdyuVchqa2uw6LGRK5T-23" value="缓存表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="315" y="10" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
