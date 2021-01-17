@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T04:22:22.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ek3M6ywPGYDDPNzUGUyZ" version="14.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-17T04:22:41.325Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="P9HezYitdhRTDmaEQU1B" version="14.2.4" type="github" pages="6">
   <diagram id="kLP2BdOTn0ogQ7rsq4Yj" name="Page-1">
     <mxGraphModel dx="670" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -486,8 +486,8 @@
         <mxCell id="cVTknGg4ab23UxdP7gXa-89" value="equal to NSLog" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#E4FDE1;" vertex="1" parent="cVTknGg4ab23UxdP7gXa-1">
           <mxGeometry x="1360" y="240" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cVTknGg4ab23UxdP7gXa-90" value="update new address = my_log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#E4FDE1;" vertex="1" parent="cVTknGg4ab23UxdP7gXa-1">
-          <mxGeometry x="940" y="100" width="180" height="20" as="geometry" />
+        <mxCell id="cVTknGg4ab23UxdP7gXa-90" value="update got[0] = my_log" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#E4FDE1;" vertex="1" parent="cVTknGg4ab23UxdP7gXa-1">
+          <mxGeometry x="955" y="100" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
