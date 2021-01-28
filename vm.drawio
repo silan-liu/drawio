@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T23:49:11.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="MZsxPf1NgRt4UPFb9cGc" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T23:49:53.989Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="JE5OTWKuYe6aM_D4cFZt" version="14.2.4" type="github">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="Page-1">
     <mxGraphModel dx="788" dy="778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -160,7 +160,7 @@
         <mxCell id="seA1UfCZrlbDo0WwXgEh-44" value="IF reg, value, ip" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#028090;fontColor=#E4FDE1;fontFamily=Comic Sans MS;" vertex="1" parent="seA1UfCZrlbDo0WwXgEh-42">
           <mxGeometry x="60" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="seA1UfCZrlbDo0WwXgEh-45" value="如果 reg 的值等于 value，则跳转到新 ip 指向的指令。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#028090;fontColor=#E4FDE1;fontFamily=Menlo;" vertex="1" parent="seA1UfCZrlbDo0WwXgEh-42">
+        <mxCell id="seA1UfCZrlbDo0WwXgEh-45" value="如果寄存器的值等于 value，则跳转到新 ip 指向的指令处。" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#028090;fontColor=#E4FDE1;fontFamily=Menlo;" vertex="1" parent="seA1UfCZrlbDo0WwXgEh-42">
           <mxGeometry x="160" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="seA1UfCZrlbDo0WwXgEh-64" value="IF A, 3, 1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#028090;fontColor=#E4FDE1;fontFamily=Comic Sans MS;" vertex="1" parent="seA1UfCZrlbDo0WwXgEh-42">
