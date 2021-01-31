@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T07:17:38.552Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="O3hJpO2xaqCg7JC1iHEb" version="14.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-31T07:18:53.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="0NTsK6c6vJL7dzNEGBmj" version="14.2.4" type="github" pages="3">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="vm2">
     <mxGraphModel dx="1036" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -296,11 +296,20 @@
         <mxCell id="85mZxg5kZzL2iJBSUFFv-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-3">
           <mxGeometry x="441" width="29" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="85mZxg5kZzL2iJBSUFFv-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;direction=north;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-1">
+        <mxCell id="85mZxg5kZzL2iJBSUFFv-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;direction=north;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;size=0.5;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-1">
           <mxGeometry x="-130" y="240" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="85mZxg5kZzL2iJBSUFFv-25" value="操作码" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#46495D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-1">
           <mxGeometry x="-95" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85mZxg5kZzL2iJBSUFFv-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;direction=north;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;size=0.5;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-1">
+          <mxGeometry x="-10" y="240" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="85mZxg5kZzL2iJBSUFFv-27" value="操作数" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-1">
+          <mxGeometry x="140" y="280" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="85mZxg5kZzL2iJBSUFFv-28" value="16 bit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="85mZxg5kZzL2iJBSUFFv-1">
+          <mxGeometry x="60" y="150" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
