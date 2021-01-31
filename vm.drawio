@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T00:27:46.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="8Bp-JuE8-g15g8F_ikk9" version="14.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-31T00:28:04.806Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="X-7fcpyIReCbyJCUjzOi" version="14.2.4" type="github" pages="2">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="vm2">
     <mxGraphModel dx="1036" dy="878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -213,9 +213,6 @@
         <mxCell id="GTRFlg0x2k32CSAyiAwO-13" value="12" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#028090;fontColor=#E4FDE1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="GTRFlg0x2k32CSAyiAwO-9">
           <mxGeometry x="180" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GTRFlg0x2k32CSAyiAwO-14" value="大端序" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#E4FDE1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="GTRFlg0x2k32CSAyiAwO-1">
-          <mxGeometry x="210" y="110" width="50" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="GTRFlg0x2k32CSAyiAwO-15" value="小端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#E4FDE1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="GTRFlg0x2k32CSAyiAwO-1">
           <mxGeometry x="220" y="220" width="40" height="20" as="geometry" />
         </mxCell>
@@ -233,6 +230,9 @@
         </mxCell>
         <mxCell id="GTRFlg0x2k32CSAyiAwO-20" value="0x12345678" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#E4FDE1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="GTRFlg0x2k32CSAyiAwO-1">
           <mxGeometry x="70" y="160" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GTRFlg0x2k32CSAyiAwO-21" value="大端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#E4FDE1;" vertex="1" parent="GTRFlg0x2k32CSAyiAwO-1">
+          <mxGeometry x="220" y="110" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
