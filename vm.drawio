@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T10:56:38.304Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="mSoWQson1ync5CRPyV73" version="14.2.9" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-02-02T10:57:48.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="DzBHrnzmQBQYZ9XLYnvB" version="14.2.9" type="github" pages="13">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="vm2">
     <mxGraphModel dx="1193" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -443,7 +443,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Mle3JGRx5olr9W0kfoKr" name="add-imm">
-    <mxGraphModel dx="2020" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2020" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5U5cnnn1FAnDU17W0J3z-0" />
         <mxCell id="5U5cnnn1FAnDU17W0J3z-1" parent="5U5cnnn1FAnDU17W0J3z-0" />
@@ -561,8 +561,8 @@
         <mxCell id="LGfTydD_tHcQR0ADsDes-9" value="15" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" parent="5U5cnnn1FAnDU17W0J3z-1" vertex="1">
           <mxGeometry x="-20" y="120" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HOqHRoydvTsH3nd9ZvZZ-0" value="ADD 立即数模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontSize=13;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="5U5cnnn1FAnDU17W0J3z-1">
-          <mxGeometry x="165" y="70" width="110" height="20" as="geometry" />
+        <mxCell id="Z_wqy3NYInLCDF19yx6D-0" value="ADD 立即数模式" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontSize=13;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#46495D;" vertex="1" parent="5U5cnnn1FAnDU17W0J3z-1">
+          <mxGeometry x="165" y="80" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
