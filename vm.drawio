@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-03T23:15:12.941Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="2lsCyMf7Hm8L8Wigwisr" version="14.2.4" type="github" pages="22">
+<mxfile host="app.diagrams.net" modified="2021-02-03T23:15:23.766Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="QoF0Rj60gB6WDX0JpIkM" version="14.2.4" type="github" pages="22">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="vm2">
     <mxGraphModel dx="670" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -2412,7 +2412,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zOJmaTP84bTCoz5hmKvn" name="indirect-store">
-    <mxGraphModel dx="670" dy="1489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="670" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RkGs_tsGQXIH03vwRNBy-0" />
         <mxCell id="RkGs_tsGQXIH03vwRNBy-1" parent="RkGs_tsGQXIH03vwRNBy-0" />
