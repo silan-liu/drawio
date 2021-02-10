@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T01:11:50.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="VweKgGdLwzZE5D5tee4A" version="14.2.4" type="github" pages="32">
+<mxfile host="app.diagrams.net" modified="2021-02-10T01:12:30.128Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ZTpowuP8z1dYGAWSvFeE" version="14.2.4" type="github" pages="32">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="vm2">
     <mxGraphModel dx="670" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -3168,6 +3168,9 @@
         </mxCell>
         <mxCell id="ish444t2pFvTYkkB9oeZ-5" value="结束符" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="dU34C0thIzvYUlC9_DAj-1">
           <mxGeometry x="405" y="200" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ish444t2pFvTYkkB9oeZ-6" value="一个存储单元 2 字节，一个字符占 2 字节" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="dU34C0thIzvYUlC9_DAj-1">
+          <mxGeometry x="220" y="70" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
