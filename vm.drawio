@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T02:42:51.646Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="ajg9_2_lCbruKYEllFrh" version="14.2.4" type="github" pages="36">
+<mxfile host="app.diagrams.net" modified="2021-02-10T02:43:23.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="BwAa9XJxW-97gEbrN33p" version="14.2.4" type="github" pages="36">
   <diagram id="09VFsPM01v1Ixz4Gwr-q" name="vm2">
     <mxGraphModel dx="670" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -3447,19 +3447,19 @@
           <mxGeometry x="-110" y="140" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="10OBb4R0wilhc5U7sAG6-67" value="AND&lt;br&gt;R0=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="10OBb4R0wilhc5U7sAG6-1">
-          <mxGeometry x="-60" y="135" width="50" height="30" as="geometry" />
+          <mxGeometry x="-60" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="10OBb4R0wilhc5U7sAG6-68" value="ADD&lt;br&gt;RO+=10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="10OBb4R0wilhc5U7sAG6-1">
-          <mxGeometry x="5" y="135" width="50" height="30" as="geometry" />
+          <mxGeometry x="10" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="10OBb4R0wilhc5U7sAG6-69" value="PUTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="10OBb4R0wilhc5U7sAG6-1">
           <mxGeometry x="75" y="140" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="10OBb4R0wilhc5U7sAG6-70" value="AND&lt;br&gt;R0=0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="10OBb4R0wilhc5U7sAG6-1">
-          <mxGeometry x="135" y="135" width="50" height="30" as="geometry" />
+          <mxGeometry x="135" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="10OBb4R0wilhc5U7sAG6-71" value="ADD&lt;br&gt;R0+=14" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="10OBb4R0wilhc5U7sAG6-1">
-          <mxGeometry x="205" y="135" width="50" height="30" as="geometry" />
+          <mxGeometry x="210" y="140" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="10OBb4R0wilhc5U7sAG6-72" value="PUTSP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontFamily=Architects Daughter;fontColor=#46495D;" vertex="1" parent="10OBb4R0wilhc5U7sAG6-1">
           <mxGeometry x="270" y="140" width="50" height="20" as="geometry" />
