@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T09:54:43.804Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="DFr3UfFEb53CnNJjEJqU" version="14.4.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-03-22T09:55:49.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="qQST5YsrqgRQ06y1XOpq" version="14.4.9" type="github" pages="5">
   <diagram id="SpWxTbUx1YU-arzxXdjg" name="dom">
     <mxGraphModel dx="634" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,6 +751,21 @@
         </mxCell>
         <mxCell id="3vDKqZmC3C6Ysj_5EkIh-21" value="生成绘制命令" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#46495D;" vertex="1" parent="ol_PzJNsq909QcS2H7g0-1">
           <mxGeometry x="70" y="310" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3vDKqZmC3C6Ysj_5EkIh-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;" edge="1" parent="ol_PzJNsq909QcS2H7g0-1" source="3vDKqZmC3C6Ysj_5EkIh-22" target="3vDKqZmC3C6Ysj_5EkIh-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vDKqZmC3C6Ysj_5EkIh-22" value="paint" style="whiteSpace=wrap;html=1;rounded=0;comic=1;sketch=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;" vertex="1" parent="ol_PzJNsq909QcS2H7g0-1">
+          <mxGeometry x="50" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vDKqZmC3C6Ysj_5EkIh-26" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;" edge="1" parent="ol_PzJNsq909QcS2H7g0-1" source="3vDKqZmC3C6Ysj_5EkIh-23" target="3vDKqZmC3C6Ysj_5EkIh-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vDKqZmC3C6Ysj_5EkIh-23" value="遍历绘制列表" style="whiteSpace=wrap;html=1;rounded=0;comic=1;sketch=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;" vertex="1" parent="ol_PzJNsq909QcS2H7g0-1">
+          <mxGeometry x="180" y="510" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vDKqZmC3C6Ysj_5EkIh-24" value="生成像素点" style="whiteSpace=wrap;html=1;rounded=0;comic=1;sketch=0;strokeColor=#788AA3;fillColor=#B2C9AB;fontColor=#46495D;" vertex="1" parent="ol_PzJNsq909QcS2H7g0-1">
+          <mxGeometry x="310" y="510" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
