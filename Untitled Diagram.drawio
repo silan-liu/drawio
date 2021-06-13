@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T06:31:40.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZvkitH_j8o67ftibjYIe" version="14.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-13T06:33:27.670Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="IwKNYUq1VQd3q30rLYU2" version="14.7.3" type="github" pages="3">
   <diagram id="bYD-6wlcabKU-R1hzNnc" name="repl">
     <mxGraphModel dx="1034" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,13 +121,13 @@
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-28" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-25">
           <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-29" value="append(&quot;.Atom(a)&quot;)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-28">
+        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-29" value=".Atom(a) 添加到父节点" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-28">
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-30" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-25">
           <mxGeometry y="80" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-31" value=".List([.Atom(a)])" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-30">
+        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-31" value="父节点此时为：.List([.Atom(a)])" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-30">
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-34" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-1">
@@ -142,7 +142,7 @@
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-37" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-34">
           <mxGeometry y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-38" value="append(&quot;.Atom(b)&quot;)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-37">
+        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-38" value=".Atom(b) 添加到父节点" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-37">
           <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-39" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-34">
