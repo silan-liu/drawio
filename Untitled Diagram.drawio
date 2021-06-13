@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T06:31:11.286Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="327eILSyy60-gkH2k9TB" version="14.7.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-06-13T06:31:40.748Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="ZvkitH_j8o67ftibjYIe" version="14.7.3" type="github" pages="3">
   <diagram id="bYD-6wlcabKU-R1hzNnc" name="repl">
     <mxGraphModel dx="1034" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,12 +81,6 @@
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-5" value="parser(&quot;(a b)&quot;, nil)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-1">
           <mxGeometry x="90" y="255" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-7" value="parser(tokens, parentNode) -&amp;gt; (remainTokens, node)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontFamily=Comic Sans MS;strokeColor=#ae4132;fillColor=#fad9d5;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-1">
-          <mxGeometry x="60" y="-80" width="235" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-8" value="&lt;br&gt;tokens：token 列表&lt;br&gt;parentNode：父节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-1">
-          <mxGeometry x="105" y="-140" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-12" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;comic=1;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-1">
           <mxGeometry x="280" y="160" width="310" height="240" as="geometry" />
