@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T06:13:17.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="FhW1V35juaKo9op_fHhN" version="14.7.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-13T06:14:29.524Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="94wUzGrYecbLdzxP7LMq" version="14.7.3" type="github" pages="2">
   <diagram id="bYD-6wlcabKU-R1hzNnc" name="repl">
     <mxGraphModel dx="1034" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,13 +100,13 @@
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-15" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-12">
           <mxGeometry y="60" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-16" value="递归调用，(&lt;span&gt;remainTokens,&amp;nbsp;&lt;/span&gt;&lt;br&gt;node) = parser(&quot;a b)&quot;, .List([]))" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-15">
+        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-16" value="递归调用，&amp;nbsp;parser(&quot;a b)&quot;, .List([]))" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-15">
           <mxGeometry width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-17" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-12">
           <mxGeometry y="120" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-18" value="递归函返回，添加节点 parentNode.append(node)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-17">
+        <mxCell id="_4mlFaS8eq7xx3cC7Mqu-18" value="递归函返回结果：(remainTokens,&amp;nbsp;&lt;br&gt;node) 。&lt;br&gt;添加节点 parentNode.append(node)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-17">
           <mxGeometry width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_4mlFaS8eq7xx3cC7Mqu-19" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="_4mlFaS8eq7xx3cC7Mqu-12">
