@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T02:14:15.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="F56S58bjU0MowTaDx7wa" version="14.7.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-14T02:14:54.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="lX181ycFWYMZS5P3R3G1" version="14.7.3" type="github" pages="4">
   <diagram id="bYD-6wlcabKU-R1hzNnc" name="repl">
     <mxGraphModel dx="1034" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,6 +388,9 @@
       <root>
         <mxCell id="NyIZKkRW4BIxMnyziah--0" />
         <mxCell id="NyIZKkRW4BIxMnyziah--1" parent="NyIZKkRW4BIxMnyziah--0" />
+        <mxCell id="NyIZKkRW4BIxMnyziah--2" value="&lt;span&gt;(cond ((atom (quote A)) (quote B)) ((quote true) (quote C)))&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="NyIZKkRW4BIxMnyziah--1">
+          <mxGeometry x="240" y="90" width="340" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
