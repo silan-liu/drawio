@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T10:59:55.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="gS2hXwFbVwY71zy638Zx" version="14.8.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-07-04T11:00:13.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="1wm4w3TCpEMZ5ycVL-D4" version="14.8.1" type="github" pages="12">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1064" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -992,8 +992,8 @@
         <mxCell id="dc_o3pKKVDusRaWC5Z59-64" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;direction=north;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
           <mxGeometry x="-60" y="614" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dc_o3pKKVDusRaWC5Z59-65" value="数据偏移，去除高 2 位" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
-          <mxGeometry x="-70" y="640" width="140" height="20" as="geometry" />
+        <mxCell id="dc_o3pKKVDusRaWC5Z59-65" value="数据偏移，去除高 2 位&lt;br&gt;0x0C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
+          <mxGeometry x="-70" y="635" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dc_o3pKKVDusRaWC5Z59-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;direction=north;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
           <mxGeometry x="60" y="614" width="120" height="20" as="geometry" />
