@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T08:08:31.866Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="eYZWYKhIUDEov8Gi244W" version="14.8.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-07-04T08:09:48.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="CWXW5hrhi39eeOTI2_02" version="14.8.1" type="github" pages="9">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1064" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -730,6 +730,18 @@
         </mxCell>
         <mxCell id="dc_o3pKKVDusRaWC5Z59-31" value="结束符" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
           <mxGeometry x="595" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dc_o3pKKVDusRaWC5Z59-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;direction=north;size=0.5;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
+          <mxGeometry x="649" y="360" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dc_o3pKKVDusRaWC5Z59-37" value="Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
+          <mxGeometry x="690" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dc_o3pKKVDusRaWC5Z59-38" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;direction=north;size=0.5;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
+          <mxGeometry x="768" y="360" width="112" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dc_o3pKKVDusRaWC5Z59-39" value="Class" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="dc_o3pKKVDusRaWC5Z59-1">
+          <mxGeometry x="804" y="400" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
