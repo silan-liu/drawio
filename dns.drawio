@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T07:16:23.630Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Gos5YERzKK-zQFS9mvZC" version="14.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-04T07:19:14.383Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="rg2QoCZJKwHfuLAyX-Fk" version="14.8.1" type="github">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1064" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,17 +43,17 @@
         <mxCell id="cxt5U_e19xRPHu2T1gp0-13" value="12 bytes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="540" y="250" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cxt5U_e19xRPHu2T1gp0-14" value="List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="540" y="310" width="40" height="20" as="geometry" />
+        <mxCell id="cxt5U_e19xRPHu2T1gp0-14" value="List of Questions" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="540" y="320" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cxt5U_e19xRPHu2T1gp0-15" value="List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="540" y="380" width="40" height="20" as="geometry" />
+        <mxCell id="cxt5U_e19xRPHu2T1gp0-15" value="List of Record" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="540" y="380" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cxt5U_e19xRPHu2T1gp0-16" value="List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="540" y="440" width="40" height="20" as="geometry" />
+        <mxCell id="cxt5U_e19xRPHu2T1gp0-16" value="List of NS Records" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cxt5U_e19xRPHu2T1gp0-17" value="List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="540" y="500" width="40" height="20" as="geometry" />
+        <mxCell id="cxt5U_e19xRPHu2T1gp0-17" value="List of Additional records" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="540" y="500" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
