@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T01:01:54.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="TVsY3B-I2rUNDyEKFsAZ" version="14.8.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-07-10T01:53:55.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="EFzkv570VF7rz11p3BBv" version="14.8.1" type="github" pages="14">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1064" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,7 +508,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zjT3atIxYaC7FBy2Abq1" name="dns-question">
-    <mxGraphModel dx="1064" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Dhn6dVyn_GeKS0Ll8E_1-0" />
         <mxCell id="Dhn6dVyn_GeKS0Ll8E_1-1" parent="Dhn6dVyn_GeKS0Ll8E_1-0" />
@@ -590,7 +590,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6ZqmyqSplx1oaj0MInhI" name="domain-1">
-    <mxGraphModel dx="1891" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uf9foVyCRIYlWaYFQf49-0" />
         <mxCell id="uf9foVyCRIYlWaYFQf49-1" parent="uf9foVyCRIYlWaYFQf49-0" />
@@ -688,7 +688,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="domain-3" id="AMKkwf45kcYUnzpOgE04">
-    <mxGraphModel dx="1891" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9sKQAlYRT6dGincGGILC-0" />
         <mxCell id="9sKQAlYRT6dGincGGILC-1" parent="9sKQAlYRT6dGincGGILC-0" />
@@ -1035,7 +1035,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="dns-body-req-example" id="4Jo5gfIAVGTcn8LCunEk">
-    <mxGraphModel dx="1891" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1891" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YawwP_dvevUn7yvGiRNE-0" />
         <mxCell id="YawwP_dvevUn7yvGiRNE-1" parent="YawwP_dvevUn7yvGiRNE-0" />
@@ -1165,15 +1165,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6gfgWAEyye8pUg0caUT2" name="domain-2">
-    <mxGraphModel dx="1064" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1064" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0rmzwzoYIT_LA2AlfqT4-0" />
         <mxCell id="0rmzwzoYIT_LA2AlfqT4-1" parent="0rmzwzoYIT_LA2AlfqT4-0" />
-        <mxCell id="tEQo9lH8k7r7gocT7zwu-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.514;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="0rmzwzoYIT_LA2AlfqT4-1" source="0rmzwzoYIT_LA2AlfqT4-2" target="0rmzwzoYIT_LA2AlfqT4-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0rmzwzoYIT_LA2AlfqT4-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;comic=1;fontFamily=Comic Sans MS;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
-          <mxGeometry x="530" y="330" width="130" height="40" as="geometry" />
+          <mxGeometry x="530" y="290" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0rmzwzoYIT_LA2AlfqT4-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Comic Sans MS;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-2">
           <mxGeometry width="130" height="40" as="geometry" />
@@ -1241,11 +1238,14 @@
         <mxCell id="0rmzwzoYIT_LA2AlfqT4-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;direction=north;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
           <mxGeometry x="320" y="490" width="670" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0rmzwzoYIT_LA2AlfqT4-45" value="新的偏移&amp;nbsp; = 0xCO ^ 0X0C = 0x0C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
-          <mxGeometry x="555" y="520" width="200" height="20" as="geometry" />
+        <mxCell id="0rmzwzoYIT_LA2AlfqT4-45" value="offset&amp;nbsp; = 0xCO ^ 0X0C = 0x0C" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
+          <mxGeometry x="560" y="520" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tEQo9lH8k7r7gocT7zwu-3" value="数据长度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
-          <mxGeometry x="565" y="300" width="60" height="20" as="geometry" />
+          <mxGeometry x="565" y="260" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GMwO_BiYAr62BM3oavVW-0" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;rounded=0;comic=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
+          <mxGeometry x="565" y="340" width="60" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
