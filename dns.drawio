@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-04T11:00:13.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="1wm4w3TCpEMZ5ycVL-D4" version="14.8.1" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-07-10T00:44:32.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="xv-pp6QvWe_QcyfeHhi1" version="14.8.1" type="github" pages="13">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1064" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -540,7 +540,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="dns-record" id="1WTw_FfdVOGq6eJoNAAE">
-    <mxGraphModel dx="1064" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1252" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tXeR5LrMAeBWzdfJfewa-0" />
         <mxCell id="tXeR5LrMAeBWzdfJfewa-1" parent="tXeR5LrMAeBWzdfJfewa-0" />
@@ -1246,6 +1246,26 @@
         </mxCell>
         <mxCell id="tEQo9lH8k7r7gocT7zwu-3" value="数据长度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="0rmzwzoYIT_LA2AlfqT4-1">
           <mxGeometry x="565" y="300" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8XaByT1xAh8UBYO3hCNo" name="Page-13">
+    <mxGraphModel dx="1064" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Ob8qajqM5JH2AG2JCp1u-0" />
+        <mxCell id="Ob8qajqM5JH2AG2JCp1u-1" parent="Ob8qajqM5JH2AG2JCp1u-0" />
+        <mxCell id="Ob8qajqM5JH2AG2JCp1u-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;comic=1;" vertex="1" parent="Ob8qajqM5JH2AG2JCp1u-1">
+          <mxGeometry x="350" y="280" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob8qajqM5JH2AG2JCp1u-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="Ob8qajqM5JH2AG2JCp1u-2">
+          <mxGeometry width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob8qajqM5JH2AG2JCp1u-4" value="数据长度" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="Ob8qajqM5JH2AG2JCp1u-3">
+          <mxGeometry width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ob8qajqM5JH2AG2JCp1u-5" value="数据" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="Ob8qajqM5JH2AG2JCp1u-3">
+          <mxGeometry x="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
