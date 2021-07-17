@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-17T09:19:24.135Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="PgANb7P6eFR4rShKJWxj" version="14.8.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-07-17T09:20:10.916Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KJ5sQT-ZpLPwrpw9xAA-" version="14.8.5" type="github" pages="16">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1064" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -677,7 +677,7 @@
         <mxCell id="iQaScRPC0hpeMqoCNIIs-9" value="ip" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="iQaScRPC0hpeMqoCNIIs-3">
           <mxGeometry x="450" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iQaScRPC0hpeMqoCNIIs-10" value="DNS Record" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="iQaScRPC0hpeMqoCNIIs-1">
+        <mxCell id="iQaScRPC0hpeMqoCNIIs-10" value="AAAA Record" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="iQaScRPC0hpeMqoCNIIs-1">
           <mxGeometry x="545" y="290" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iQaScRPC0hpeMqoCNIIs-11" value="2 bytes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="iQaScRPC0hpeMqoCNIIs-1">
