@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-31T06:56:07.590Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="b6VPG7vbbV-BiG1UERLW" version="14.9.0" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2021-07-31T07:14:49.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="YzO40086NK-jVhtFXZUf" version="14.9.0" type="github" pages="20">
   <diagram id="-TrO8R4JTuIZQbB_k3LD" name="dns packet">
     <mxGraphModel dx="1072" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1611,6 +1611,78 @@
       <root>
         <mxCell id="IuQpf9nT1vK8Jr473e_l-0" />
         <mxCell id="IuQpf9nT1vK8Jr473e_l-1" parent="IuQpf9nT1vK8Jr473e_l-0" />
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-2" value="公共 DNS 服务器" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="550" y="390" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-4" value="本地 DNS 客户端" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="100" y="270" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-5" value="server" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Comic Sans MS;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="354" y="270" width="76" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-6" value="client" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Comic Sans MS;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="354" y="390" width="76" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-7" value="我们的 DNS 服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="332" y="130" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-15" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432" y="405" as="sourcePoint" />
+            <mxPoint x="550" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-17" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="310" as="sourcePoint" />
+            <mxPoint x="348" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-21" value="③ query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="462" y="378" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-22" value="④ response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="452" y="440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-23" value="query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="260" y="260" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-25" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;startArrow=none;startFill=0;endFill=1;" edge="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="222" y="290" as="sourcePoint" />
+            <mxPoint x="350" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-26" value="⑥&amp;nbsp; response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="245" y="312" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-27" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="432" y="429" as="sourcePoint" />
+            <mxPoint x="550" y="429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-29" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383" y="328" as="sourcePoint" />
+            <mxPoint x="383" y="388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-31" value="" style="endArrow=none;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;startArrow=classic;startFill=1;endFill=0;" edge="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="402" y="327" as="sourcePoint" />
+            <mxPoint x="402" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-33" value="①" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="240" y="260" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-34" value="②" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="352" y="350" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IuQpf9nT1vK8Jr473e_l-36" value="⑤" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="IuQpf9nT1vK8Jr473e_l-1">
+          <mxGeometry x="405" y="350" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
