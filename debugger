@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T02:50:52.944Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ve8Px4iwNEAvFbaNhmta" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T04:05:50.311Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="CCwI_CgDiF4GNyteJaRY" version="16.0.3" type="github">
   <diagram id="U_EKF3BTNeMUwv_e3Q7L" name="Page-1">
-    <mxGraphModel dx="1115" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1115" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,8 +39,8 @@
         <mxCell id="iOsugpsgImQCkhuz1tFi-9" value="启动输入循环" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#b85450;fillColor=#f8cecc;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="170" y="319" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iOsugpsgImQCkhuz1tFi-11" value="等待子进程完成 execl" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="236" y="279" width="130" height="20" as="geometry" />
+        <mxCell id="iOsugpsgImQCkhuz1tFi-11" value="waitpid 等待子进程暂停" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="231" y="279" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iOsugpsgImQCkhuz1tFi-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-22" target="iOsugpsgImQCkhuz1tFi-19">
           <mxGeometry relative="1" as="geometry">
