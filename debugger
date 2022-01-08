@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T02:04:09.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.3" etag="ErYfBZi6E6_i5lXX_8E3" type="github"><diagram id="U_EKF3BTNeMUwv_e3Q7L">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-08T02:39:00.505Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="84R7UpUTvOvWRknChqAW" version="16.0.3" type="github">
+  <diagram id="U_EKF3BTNeMUwv_e3Q7L" name="Page-1">
+    <mxGraphModel dx="1115" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iOsugpsgImQCkhuz1tFi-3" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-1" target="iOsugpsgImQCkhuz1tFi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-10" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-1" target="iOsugpsgImQCkhuz1tFi-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-1" value="父进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-40" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-2" target="iOsugpsgImQCkhuz1tFi-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-2" value="子进程" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="505" y="210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-4" value="fork" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-34" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-5" target="iOsugpsgImQCkhuz1tFi-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-5" value="启动被调试程序" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="510" y="413" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-8" value="调用 execl" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="543" y="339" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-14" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-9" value="启动输入循环" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-11" value="等待子进程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-18" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="580" as="sourcePoint" />
+            <mxPoint x="220" y="602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-19" value="执行命令" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="604" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-21" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-20" value="等待输入" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="430" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-22" value="解析命令" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="170" y="524" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-30" value="输入循环" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="340" y="524" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-32" value="" style="curved=1;endArrow=classic;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-19" target="iOsugpsgImQCkhuz1tFi-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="620" as="sourcePoint" />
+            <mxPoint x="310" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="620" />
+              <mxPoint x="350" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-42" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" edge="1" parent="1" source="iOsugpsgImQCkhuz1tFi-33" target="iOsugpsgImQCkhuz1tFi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-33" value="暂停" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="507" y="521.5" width="106" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-35" value="&lt;p&gt;收到 SIGTRAP 信号&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="570" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-36" value="允许父进程跟踪" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-38" value="&lt;span&gt;调用 ptrace - PTRACE_ME&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iOsugpsgImQCkhuz1tFi-41" value="" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;sketch=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="507" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
