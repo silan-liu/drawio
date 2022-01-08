@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T02:48:32.880Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-6DCPifXN7nAdPyYh4TL" version="16.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T02:49:32.480Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="lwsooDvFUSFzRp-kyJz5" version="16.0.3" type="github">
   <diagram id="U_EKF3BTNeMUwv_e3Q7L" name="Page-1">
     <mxGraphModel dx="1115" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iOsugpsgImQCkhuz1tFi-33" value="暂停" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="iOsugpsgImQCkhuz1tFi-33" value="被调试程序暂停" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;strokeColor=#d6b656;fillColor=#fff2cc;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="505" y="524" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iOsugpsgImQCkhuz1tFi-35" value="&lt;p&gt;收到 SIGTRAP 信号&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Comic Sans MS;" vertex="1" parent="1">
