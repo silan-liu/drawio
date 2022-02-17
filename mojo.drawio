@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T01:32:37.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="tDIQiK4wrSNbJqdJrulv" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-17T01:36:45.329Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="dsKCH4RxSxP84BUTnaeD" version="16.2.4" type="github" pages="2">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="process">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,6 +270,21 @@
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-28" value="call proxy method" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1432" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-32" target="MVywPx5-yM_pifzoiNPH-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-32" value="Bind PendingRemote" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="60" y="585" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-38" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-33" target="MVywPx5-yM_pifzoiNPH-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-33" value="internal_state_.Bind(PendingRemote)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-34" value="save handle1" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="566.5" y="585" width="149" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
