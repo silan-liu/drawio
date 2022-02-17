@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T01:43:51.092Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="MP22tgg4rWM4hzeEon6a" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-17T01:44:26.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="MugqiPTzrJJNKvcifts7" version="16.2.4" type="github" pages="2">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="process">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
           <mxGeometry x="380" y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-44" value="instance()" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="620" y="233" width="160" height="60" as="geometry" />
+          <mxGeometry x="621" y="223" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-41" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-45" target="MVywPx5-yM_pifzoiNPH-40">
           <mxGeometry relative="1" as="geometry" />
@@ -149,7 +149,7 @@
           <mxGeometry x="980" y="70" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-46" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;InterfacePtrState&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="635" y="200" width="130" height="30" as="geometry" />
+          <mxGeometry x="636" y="190" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-47" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;PingResponderStubDispatch&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="790" y="980" width="180" height="30" as="geometry" />
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-43" value="开始接收消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1035" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-45" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-37" target="r6RJ1fwWfys-dL125TPe-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
