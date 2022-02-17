@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T00:48:47.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="pUJBWE1q876f-lCd4ACg" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T00:51:25.609Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="u3fTapfQsUenkkzOGU2T" version="16.2.4" type="github">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Page-1">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="r6RJ1fwWfys-dL125TPe-57" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-1" target="r6RJ1fwWfys-dL125TPe-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-1" value="Remote&amp;lt;PingResponder&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="60" y="310" width="160" height="60" as="geometry" />
+          <mxGeometry x="50" y="90" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-2" value="PingResponderProxy" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1020" y="280" width="160" height="60" as="geometry" />
@@ -183,6 +186,12 @@
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-55" value="serialize parameters and send message" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1220" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6RJ1fwWfys-dL125TPe-56" value="PendingRemote&amp;lt;PingResponder&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="35" y="200" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6RJ1fwWfys-dL125TPe-58" value="Bind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="140" y="164" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
