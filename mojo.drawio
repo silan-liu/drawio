@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T02:11:07.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2adqYChbOt9uuktP6ihT" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-17T02:12:37.144Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="Wd66PED3U-OWPw3pnjYZ" version="16.2.4" type="github" pages="2">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="process">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,20 +274,14 @@
         <mxCell id="MVywPx5-yM_pifzoiNPH-46" value="Receiver 构造函数，&lt;br&gt;接收 PendingReceiver 和接口实现实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="115" y="1375" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-47" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;Bind PendingReceiver&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1480" width="200" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-48" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;internal_state_&lt;/span&gt;.Bind(PendingReceiver)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="629" y="1480" width="256" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-49" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;Pass impl to internal_state_&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1380" width="200" height="60" as="geometry" />
+          <mxGeometry x="661" y="1490" width="256" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-50" value="&lt;font face=&quot;comic sans ms&quot;&gt;1. create router and start receiving message&lt;br&gt;2. set stub_ as message reciever&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="925" y="1480" width="265" height="60" as="geometry" />
+          <mxGeometry x="957" y="1490" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-51" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;pass impl to stub_&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="657" y="1380" width="200" height="60" as="geometry" />
+          <mxGeometry x="685" y="1390" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-52" value="PingResponderStub::Accept" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="355" y="1660" width="160" height="60" as="geometry" />
@@ -315,6 +309,25 @@
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-77" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;...&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1081" y="1770" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-78" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1405" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-78">
+          <mxGeometry width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-80" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;Pass impl to internal_state_&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-79">
+          <mxGeometry width="210" height="55" as="geometry">
+            <mxRectangle width="210" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-78">
+          <mxGeometry y="55" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-82" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;Bind PendingReceiver&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-81">
+          <mxGeometry width="210" height="55" as="geometry">
+            <mxRectangle width="210" height="55" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
