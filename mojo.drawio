@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T00:46:56.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="O-snmx8sCuOLDjcoHnZY" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T00:48:47.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="pUJBWE1q876f-lCd4ACg" version="16.2.4" type="github">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Page-1">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           <mxGeometry x="590" y="280" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-45" value="ConfigureProxyIfNecessary()" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="780" y="280" width="200" height="60" as="geometry" />
+          <mxGeometry x="784" y="280" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-46" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;InterfacePtrState&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="620" y="240" width="130" height="30" as="geometry" />
@@ -180,6 +180,9 @@
           <mxGeometry width="180" height="40" as="geometry">
             <mxRectangle width="180" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r6RJ1fwWfys-dL125TPe-55" value="serialize parameters and send message" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="280" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
