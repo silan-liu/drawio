@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T02:07:55.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="bsLcUdJcvOkNQpofx-Jk" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-17T02:10:56.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="1VSsAaSH8cL_nRZw814V" version="16.2.4" type="github" pages="2">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="process">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry x="100" y="1420" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-5" value="PingResponderStub handle message" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1694" width="160" height="60" as="geometry" />
+          <mxGeometry x="70" y="1694" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-6" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;PingResponderStubDispatch::Accept&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1660" width="240" height="60" as="geometry" />
+          <mxGeometry x="720" y="1660" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="340" y="1029" width="180" height="120" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry x="285" y="1770" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-55" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;PingResponderStubDispatch::&lt;/span&gt;&amp;nbsp;AcceptWithResponder" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="670" y="1770" width="240" height="60" as="geometry" />
+          <mxGeometry x="670" y="1770" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-72" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -306,6 +306,15 @@
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-73" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;MessageReceiverWithResponderStatus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="290" y="870" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-74" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;deserialize paremeter and call impl method&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1660" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-75" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;dispatch message(switch/case)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="1660" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MVywPx5-yM_pifzoiNPH-77" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;...&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="1770" width="169" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
