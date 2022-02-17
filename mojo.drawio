@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T00:52:59.012Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="D74aGcTGpRf6X7E5uGqQ" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-17T00:54:18.663Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="r7Hcp35vi0WOWrJwYXNG" version="16.2.4" type="github">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Page-1">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -203,10 +203,16 @@
           <mxGeometry x="570" y="870" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-61" value="PingResponderImpl" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="790" y="760" width="160" height="60" as="geometry" />
+          <mxGeometry x="794" y="760" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-64" value="Bind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="668" y="833" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6RJ1fwWfys-dL125TPe-65" value="handl0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="230" y="220" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="r6RJ1fwWfys-dL125TPe-66" value="handle1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="767" y="890" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
