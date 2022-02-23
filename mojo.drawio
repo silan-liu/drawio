@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T03:36:27.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="z9z7uZuJeEG6Kt2-5FSm" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-23T03:36:55.555Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="qbyWvAZIvYeEV9sJ8vob" version="16.2.4" type="github" pages="3">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="process">
     <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,84 +9,6 @@
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-2" value="return PingResponderProxy instance" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1230" y="70" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-89" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-4" target="MVywPx5-yM_pifzoiNPH-81">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-4" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;Receiver(PendingReceiver, Impl)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1420" width="220" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-90" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-5" target="MVywPx5-yM_pifzoiNPH-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-5" value="PingResponderStub handle message with no callback" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1660" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-93" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-6" target="MVywPx5-yM_pifzoiNPH-75">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-6" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;PingResponderStubDispatch::Accept&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="610" y="1660" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-7" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="395" y="1169" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-8" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-7">
-          <mxGeometry width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-9" value="&lt;span&gt;PingResponderStub stub_;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-8">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-7">
-          <mxGeometry y="40" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-11" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-10">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-7">
-          <mxGeometry y="80" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-13" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-12">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-22" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;BindState&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;align=center;labelBackgroundColor=#CCFFE6;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="1141" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-26" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1169" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-26">
-          <mxGeometry width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-28" value="BindState&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;internal_state_&lt;/span&gt;;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-27">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-26">
-          <mxGeometry y="40" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-30" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-29">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-31" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-26">
-          <mxGeometry y="80" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-32" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-31">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-33" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Receiver&amp;lt;PingResponder&amp;gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1129" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-36" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="360" y="220" width="180" height="150" as="geometry" />
@@ -129,36 +51,6 @@
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-46" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;InterfacePtrState&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="636" y="190" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-47" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;PingResponderStubDispatch&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1129" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-48" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1169" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-48">
-          <mxGeometry width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-50" value="&lt;span style=&quot;text-align: left&quot;&gt;Accept();&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-49">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-48">
-          <mxGeometry y="40" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-52" value="&lt;span style=&quot;text-align: left&quot;&gt;AcceptWithResponder();&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-51">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-48">
-          <mxGeometry y="80" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r6RJ1fwWfys-dL125TPe-54" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="r6RJ1fwWfys-dL125TPe-53">
-          <mxGeometry width="180" height="40" as="geometry">
-            <mxRectangle width="180" height="40" as="alternateBounds" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-55" value="serialize parameters and send message" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="1630" y="70" width="160" height="60" as="geometry" />
@@ -280,75 +172,6 @@
         <mxCell id="MVywPx5-yM_pifzoiNPH-45" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-37" target="r6RJ1fwWfys-dL125TPe-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-46" value="Receiver 构造函数，&lt;br&gt;接收 PendingReceiver 和接口实现实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1375" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-87" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-48" target="MVywPx5-yM_pifzoiNPH-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-48" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;internal_state_&lt;/span&gt;.Bind(PendingReceiver)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="661" y="1490" width="259" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-50" value="&lt;font face=&quot;comic sans ms&quot;&gt;1. create router and start receiving message&lt;br&gt;2. set stub_ as message reciever&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="976" y="1490" width="265" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-51" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;pass impl to stub_&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="661" y="1390" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-92" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-52" target="r6RJ1fwWfys-dL125TPe-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-52" value="PingResponderStub::Accept" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1660" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-72" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="485" y="1137" as="sourcePoint" />
-            <mxPoint x="485" y="1073" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-73" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;MessageReceiverWithResponderStatus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1010" width="280" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-74" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;deserialize paremeter and call impl method&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="1660" width="169" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-94" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-75" target="MVywPx5-yM_pifzoiNPH-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-75" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;dispatch message(switch/case)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="940" y="1660" width="169" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-78" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;comic=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1405" width="210" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-79" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-78">
-          <mxGeometry width="210" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-80" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;1. Pass impl to internal_state_&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-79">
-          <mxGeometry width="210" height="55" as="geometry">
-            <mxRectangle width="210" height="55" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-81" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-78">
-          <mxGeometry y="55" width="210" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-82" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;2. Bind PendingReceiver&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="MVywPx5-yM_pifzoiNPH-81">
-          <mxGeometry width="210" height="55" as="geometry">
-            <mxRectangle width="210" height="55" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-86" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-81" target="MVywPx5-yM_pifzoiNPH-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-88" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-79">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="660" y="1420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-95" value="stub receive message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1630" width="140" height="20" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -419,6 +242,191 @@
             <mxPoint x="370" y="260" as="sourcePoint" />
             <mxPoint x="470" y="260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zjAi1jq91jUnCxYIMh73" name="Page-3">
+    <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-0" />
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-1" parent="lCeXwG15KXOk6xEuDNDM-0" />
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-2" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-3" target="lCeXwG15KXOk6xEuDNDM-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-3" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;Receiver(PendingReceiver, Impl)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="100" y="1420" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-5" target="lCeXwG15KXOk6xEuDNDM-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-5" value="PingResponderStub handle message with no callback" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="70" y="1660" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-7" target="lCeXwG15KXOk6xEuDNDM-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-7" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;PingResponderStubDispatch::Accept&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="610" y="1660" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-8" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="395" y="1169" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-9" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-8">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-10" value="&lt;span&gt;PingResponderStub stub_;&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-9">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-8">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-12" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-11">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-13" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-8">
+          <mxGeometry y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-14" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-13">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-15" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;BindState&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;align=center;labelBackgroundColor=#CCFFE6;labelBorderColor=none;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="445" y="1141" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-16" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="90" y="1169" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-17" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-16">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-18" value="BindState&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;internal_state_&lt;/span&gt;;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-17">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-19" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-16">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-20" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-19">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-21" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-16">
+          <mxGeometry y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-22" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-21">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Receiver&amp;lt;PingResponder&amp;gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="110" y="1129" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;PingResponderStubDispatch&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="720" y="1129" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-25" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="710" y="1169" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-26" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-25">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-27" value="&lt;span style=&quot;text-align: left&quot;&gt;Accept();&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-26">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-28" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-25">
+          <mxGeometry y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-29" value="&lt;span style=&quot;text-align: left&quot;&gt;AcceptWithResponder();&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-28">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-30" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-25">
+          <mxGeometry y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-31" value="..." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-30">
+          <mxGeometry width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-32" value="Receiver 构造函数，&lt;br&gt;接收 PendingReceiver 和接口实现实例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="100" y="1375" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-33" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-34" target="lCeXwG15KXOk6xEuDNDM-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-34" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;internal_state_&lt;/span&gt;.Bind(PendingReceiver)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="661" y="1490" width="259" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-35" value="&lt;font face=&quot;comic sans ms&quot;&gt;1. create router and start receiving message&lt;br&gt;2. set stub_ as message reciever&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="976" y="1490" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-36" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;pass impl to stub_&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="661" y="1390" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-37" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-38" target="lCeXwG15KXOk6xEuDNDM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-38" value="PingResponderStub::Accept" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="340" y="1660" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-39" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=1;sketch=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;curved=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="485" y="1137" as="sourcePoint" />
+            <mxPoint x="485" y="1073" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-40" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;MessageReceiverWithResponderStatus&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="345" y="1010" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-41" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;deserialize paremeter and call impl method&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="1200" y="1660" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-42" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-43" target="lCeXwG15KXOk6xEuDNDM-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-43" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;dispatch message(switch/case)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="940" y="1660" width="169" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-44" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;comic=1;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="380" y="1405" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-44">
+          <mxGeometry width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-46" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;1. Pass impl to internal_state_&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-45">
+          <mxGeometry width="210" height="55" as="geometry">
+            <mxRectangle width="210" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-47" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-44">
+          <mxGeometry y="55" width="210" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-48" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;2. Bind PendingReceiver&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-47">
+          <mxGeometry width="210" height="55" as="geometry">
+            <mxRectangle width="210" height="55" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-49" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-47" target="lCeXwG15KXOk6xEuDNDM-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-50" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="1420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-51" value="stub receive message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="90" y="1630" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
