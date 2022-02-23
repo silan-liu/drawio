@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T03:40:43.778Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="X4793V4UMgPEww0FMjE8" version="16.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-23T03:42:22.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="hcv4z1e3TrnoZXoxQB4g" version="16.2.4" type="github" pages="3">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
     <mxGraphModel dx="1115" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-2" value="return PingResponderProxy instance" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="170" width="160" height="60" as="geometry" />
+          <mxGeometry x="750" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-36" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="110" y="-190" width="180" height="150" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="386" y="-220" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r6RJ1fwWfys-dL125TPe-55" value="serialize parameters and send message" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1630" y="170" width="160" height="60" as="geometry" />
+          <mxGeometry x="310" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-15" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-1" target="MVywPx5-yM_pifzoiNPH-14">
           <mxGeometry relative="1" as="geometry" />
@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-28" value="call proxy method" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1432" y="170" width="160" height="60" as="geometry" />
+          <mxGeometry x="530" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-36" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-32" target="MVywPx5-yM_pifzoiNPH-33">
           <mxGeometry relative="1" as="geometry" />
@@ -160,17 +160,20 @@
         <mxCell id="MVywPx5-yM_pifzoiNPH-39" value="将 PendingRemote 中的 handle1 保存，&lt;br&gt;在创建 proxy 对象时需要 handle1。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="625" y="925" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-44" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.463;entryY=1.008;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-40" target="r6RJ1fwWfys-dL125TPe-2">
+        <mxCell id="oqewsW6THqMmgD_0pgwI-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="MVywPx5-yM_pifzoiNPH-40" target="r6RJ1fwWfys-dL125TPe-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-40" value="create router and start receiving message" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="980" y="280" width="200" height="60" as="geometry" />
+          <mxGeometry x="970" y="280" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-43" value="开始接收消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1035" y="350" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="MVywPx5-yM_pifzoiNPH-45" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="1" source="r6RJ1fwWfys-dL125TPe-37" target="r6RJ1fwWfys-dL125TPe-44">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oqewsW6THqMmgD_0pgwI-2" value="发起接口调用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="137.5" y="110" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
