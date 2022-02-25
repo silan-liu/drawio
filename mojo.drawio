@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T09:47:29.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="4H9P8CVPGP_MGllGrS-2" version="16.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:47:49.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="zByOuP1_b_tmtdu-CwvQ" version="16.2.4" type="github" pages="6">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
     <mxGraphModel dx="1158" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -526,7 +526,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="UzPkPtOS_kexeaQOW3Dj" name="Page-6">
+  <diagram id="UzPkPtOS_kexeaQOW3Dj" name="receiver constructor">
     <mxGraphModel dx="1158" dy="-469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bfqmY9SWcq6s6BNzt0xl-0" />
