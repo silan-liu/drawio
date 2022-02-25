@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T09:48:02.723Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="2IWgL4KJudpSg-9zyCO9" version="16.2.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:48:30.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="agvB8WDxFFXlVfNFjBMq" version="16.2.4" type="github" pages="6">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
     <mxGraphModel dx="1158" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,8 +330,8 @@
         <mxCell id="lCeXwG15KXOk6xEuDNDM-23" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Receiver&amp;lt;PingResponder&amp;gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
           <mxGeometry x="110" y="1129" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lCeXwG15KXOk6xEuDNDM-24" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(70, 73, 93); font-family: &amp;quot;comic sans ms&amp;quot;; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;PingResponderStubDispatch&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
-          <mxGeometry x="720" y="1129" width="180" height="30" as="geometry" />
+        <mxCell id="lCeXwG15KXOk6xEuDNDM-24" value="&lt;span style=&quot;color: rgb(70 , 73 , 93) ; font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;PingResponderStub&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
+          <mxGeometry x="740" y="1129" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lCeXwG15KXOk6xEuDNDM-25" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
           <mxGeometry x="710" y="1169" width="180" height="120" as="geometry" />
