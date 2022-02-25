@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T07:52:34.738Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="6ZuvzufkOT9I00Y3xhl3" version="16.2.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:43:06.884Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="0soA3omaaPwWvdPy-LLz" version="16.2.4" type="github" pages="4">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
-    <mxGraphModel dx="1048" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,7 +195,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dX9fs4s9apIxD8Zy1hKn" name="message-pipe">
-    <mxGraphModel dx="838" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BUqGUsT21rhBL-n511Uf-0" />
         <mxCell id="BUqGUsT21rhBL-n511Uf-1" parent="BUqGUsT21rhBL-n511Uf-0" />
@@ -266,7 +266,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zjAi1jq91jUnCxYIMh73" name="Receiver">
-    <mxGraphModel dx="1115" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="lCeXwG15KXOk6xEuDNDM-0" />
         <mxCell id="lCeXwG15KXOk6xEuDNDM-1" parent="lCeXwG15KXOk6xEuDNDM-0" />
@@ -446,6 +446,9 @@
         </mxCell>
         <mxCell id="lCeXwG15KXOk6xEuDNDM-51" value="stub receive message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
           <mxGeometry x="90" y="1630" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="v_mDVxjs-O7CnvJN23vD-0" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" edge="1" parent="lCeXwG15KXOk6xEuDNDM-1" source="lCeXwG15KXOk6xEuDNDM-17" target="lCeXwG15KXOk6xEuDNDM-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
