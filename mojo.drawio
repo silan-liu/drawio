@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T09:51:37.153Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="r8iGdHD0M8VlfEs8Zex4" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:51:51.350Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="HdbmsDUgBmvUbUGOxDou" version="16.2.4" type="github" pages="7">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
     <mxGraphModel dx="1158" dy="1100" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -510,10 +510,10 @@
         <mxCell id="jJX25geRhKIBLvYhznBh-0" />
         <mxCell id="jJX25geRhKIBLvYhznBh-1" parent="jJX25geRhKIBLvYhznBh-0" />
         <mxCell id="jJX25geRhKIBLvYhznBh-2" value="&lt;span style=&quot;color: rgb(70 , 73 , 93) ; font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;PingResponderStub&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontColor=#46495D;" vertex="1" parent="jJX25geRhKIBLvYhznBh-1">
-          <mxGeometry x="280" y="1060" width="120" height="30" as="geometry" />
+          <mxGeometry x="200" y="1060" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jJX25geRhKIBLvYhznBh-3" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;" vertex="1" parent="jJX25geRhKIBLvYhznBh-1">
-          <mxGeometry x="250" y="1100" width="180" height="120" as="geometry" />
+          <mxGeometry x="170" y="1100" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="jJX25geRhKIBLvYhznBh-4" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;sketch=0;fontFamily=Comic Sans MS;fontColor=#46495D;strokeColor=#788AA3;" vertex="1" parent="jJX25geRhKIBLvYhznBh-3">
           <mxGeometry width="180" height="40" as="geometry" />
