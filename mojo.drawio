@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T10:08:21.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="BywrAAUYdDJ_l4vAVjhE" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-02-25T10:19:57.121Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="ck2gOx1gMNnX_b-SoGOe" version="16.2.4" type="github" pages="7">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
     <mxGraphModel dx="1158" dy="1812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -431,7 +431,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vbCJz24vyDSEcqaAQ0BE-7" value="PingResponderStub::Accept" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="vbCJz24vyDSEcqaAQ0BE-1">
-          <mxGeometry x="310" y="1660" width="180" height="60" as="geometry" />
+          <mxGeometry x="320" y="1660" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vbCJz24vyDSEcqaAQ0BE-8" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34;&quot;&gt;deserialize paremeter and call impl method&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="vbCJz24vyDSEcqaAQ0BE-1">
           <mxGeometry x="1130" y="1660" width="169" height="60" as="geometry" />
