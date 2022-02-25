@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T03:45:41.444Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="lfJQuAy7Ba09MQz2O3WZ" version="16.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-25T07:46:50.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="FMiXkV4M6jeHBv9aHzR6" version="16.2.4" type="github" pages="4">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
-    <mxGraphModel dx="1115" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1048" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,6 +447,14 @@
         <mxCell id="lCeXwG15KXOk6xEuDNDM-51" value="stub receive message" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" vertex="1" parent="lCeXwG15KXOk6xEuDNDM-1">
           <mxGeometry x="90" y="1630" width="140" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="roGjRBLbfYlx4evc6GJX" name="URLLoaderFactory">
+    <mxGraphModel dx="1048" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="u2YtDh2_NyuS1iN0TiJp-0" />
+        <mxCell id="u2YtDh2_NyuS1iN0TiJp-1" parent="u2YtDh2_NyuS1iN0TiJp-0" />
       </root>
     </mxGraphModel>
   </diagram>
