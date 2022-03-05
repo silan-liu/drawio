@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T01:55:11.877Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="B4vy5UmzMVp2L8acRve8" version="16.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-03-05T01:55:24.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="Efej3JgXAo6XRvqhpMvY" version="16.6.4" type="github" pages="7">
   <diagram id="xi3TrrNPuhg_sPIkacZI" name="Remote">
     <mxGraphModel dx="1116" dy="1871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,10 +151,10 @@
         <mxCell id="MVywPx5-yM_pifzoiNPH-33" value="internal_state_.Bind(PendingRemote)" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="337" y="850" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-34" value="save handle1" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+        <mxCell id="MVywPx5-yM_pifzoiNPH-34" value="save handle0" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontColor=#46495D;strokeColor=#788AA3;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="661" y="850" width="149" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MVywPx5-yM_pifzoiNPH-39" value="将 PendingRemote 中的 handle1 保存，&lt;br&gt;在创建 proxy 对象时需要 handle1。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="MVywPx5-yM_pifzoiNPH-39" value="将 PendingRemote 中的 handle0 保存，&lt;br&gt;在创建 proxy 对象时需要 handle0。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Comic Sans MS;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="625" y="925" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oqewsW6THqMmgD_0pgwI-1" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Comic Sans MS;fontColor=#333333;strokeColor=#788AA3;fillColor=#B2C9AB;" parent="1" source="MVywPx5-yM_pifzoiNPH-40" target="r6RJ1fwWfys-dL125TPe-2" edge="1">
