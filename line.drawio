@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T09:14:53.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="kjoDouVIJvBBUKh9kIM5" version="20.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T09:16:06.261Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8SjHG_usSOyl9kWtpdnX" version="20.5.2" type="github">
   <diagram id="KesGSUQZ1qKI0CmqAFl0" name="第 1 页">
     <mxGraphModel dx="1198" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,15 @@
         </mxCell>
         <mxCell id="9YOoZQaAgLzlB-2kJQ31-36" value="路线二：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="60" y="962" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YOoZQaAgLzlB-2kJQ31-37" value="起点" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#B2C9AB;fontFamily=Helvetica;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="730" y="630" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YOoZQaAgLzlB-2kJQ31-38" value="换乘" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#d79b00;fontFamily=Helvetica;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="730" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9YOoZQaAgLzlB-2kJQ31-39" value="终点" style="rounded=1;whiteSpace=wrap;html=1;comic=1;strokeColor=#b85450;fontFamily=Helvetica;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="730" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
