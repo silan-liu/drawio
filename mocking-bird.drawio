@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T10:18:17.361Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="-AW2Fs7BMNXYmsUR94-q" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T10:18:42.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.5" etag="tp0iEcKz8RVXaJwdMWqp" type="github">
   <diagram id="9OjSqcRy2-oI7cbM97lL" name="第 1 页">
     <mxGraphModel dx="1206" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="YfUdEmCJQRdxEmTbm3wy-1" value="主要人物介绍" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="YfUdEmCJQRdxEmTbm3wy-1" value="主要人物介绍" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#314354;fillColor=#647687;fontFamily=Comic Sans MS;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="265" y="100" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YfUdEmCJQRdxEmTbm3wy-2" value="斯库特·芬奇" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="140" y="285" width="120" height="60" as="geometry" />
