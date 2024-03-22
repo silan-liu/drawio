@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T09:41:34.629Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6vUbQ17SUAzMzGmwXm2C" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:42:20.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="4lgmuas2tsSkURMAvbF8" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1213" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,13 +37,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="查询 url_record_queue 是否存在该条记录" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=14;align=center;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="84" y="320" width="100" height="80" as="geometry" />
+          <mxGeometry x="56" y="320" width="156" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="插入到 url_record_queue 表" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="74" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="74" y="468" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="不处理" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="294" y="340" width="120" height="40" as="geometry" />
+          <mxGeometry x="294" y="350" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;endArrow=block;endFill=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Pchrgm1rOS8HNP_LCYUk-0" target="Pchrgm1rOS8HNP_LCYUk-61">
           <mxGeometry relative="1" as="geometry" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-19" value="是否查询成功" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="889" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="878.5" y="440" width="101" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-26" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=14;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="10" relative="1" as="geometry">
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-31" value="结果数 &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="889" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="874" y="670" width="111" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-33" value="不处理" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="869" y="800" width="120" height="40" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-49" value="是否已收录" style="rhombus;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=0;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1415" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="1402.5" y="300" width="105" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pchrgm1rOS8HNP_LCYUk-51" value="更新收录时长，收录标识" style="whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;glass=0;strokeWidth=1;shadow=0;labelBackgroundColor=none;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1395" y="450" width="120" height="40" as="geometry" />
