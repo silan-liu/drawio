@@ -55,7 +55,7 @@
         <mxCell id="69V-SClEr225RSw-9jj0-18" value="基础层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="135" y="485" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="69V-SClEr225RSw-9jj0-19" value="ctrtc sdk" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="69V-SClEr225RSw-9jj0-19" value="CTRTC SDK" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="270" y="342.5" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
