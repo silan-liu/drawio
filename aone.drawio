@@ -34,7 +34,7 @@
         <mxCell id="69V-SClEr225RSw-9jj0-10" value="UserManager" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="440" y="257.5" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69V-SClEr225RSw-9jj0-11" value="公用业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="69V-SClEr225RSw-9jj0-11" value="公用业务逻辑和 UI" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="620" y="257.5" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
