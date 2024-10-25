@@ -10,8 +10,8 @@
         <mxCell id="69V-SClEr225RSw-9jj0-1" value="&amp;nbsp;首页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="245" y="133" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="69V-SClEr225RSw-9jj0-2" value="UI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="150" y="148" width="40" height="30" as="geometry" />
+        <mxCell id="69V-SClEr225RSw-9jj0-2" value="UI 层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="145" y="148" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-3" value="会议页" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B2C9AB;strokeColor=#788AA3;labelBackgroundColor=none;fontColor=#46495D;" vertex="1" parent="1">
           <mxGeometry x="405" y="133" width="120" height="60" as="geometry" />
