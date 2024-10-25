@@ -29,13 +29,13 @@
           <mxGeometry x="125" y="315" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-9" value="Engine" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="270" y="255" width="140" height="60" as="geometry" />
+          <mxGeometry x="270" y="257.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-10" value="UserManager" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="430" y="255" width="150" height="60" as="geometry" />
+          <mxGeometry x="430" y="257.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-11" value="公用业务逻辑" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="620" y="255" width="170" height="60" as="geometry" />
+          <mxGeometry x="620" y="257.5" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="650" height="100" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="135" y="485" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="69V-SClEr225RSw-9jj0-19" value="ctrtc sdk" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="520" height="60" as="geometry" />
+          <mxGeometry x="270" y="342.5" width="520" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
